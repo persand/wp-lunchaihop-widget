@@ -92,7 +92,7 @@ class LunchaihopWidget extends WP_Widget {
       echo '<p class="widget-lunchaihop-wishlist">'.__( 'My lunch wishlist:', 'LunchaihopWidget' ).'<br>'.$lunch_dates.'</p>';
     }
 
-    echo __( 'Who should I <a href="http://www.lunchaihop.se">lunch with</a>?', 'LunchaihopWidget' );
+    echo '<p>' . __( 'Who should I <a href="http://www.lunchaihop.se">lunch with</a>?', 'LunchaihopWidget' ) . '</p>';
 
     if ( !empty( $linkedin_url ) ) {
       if ( !empty( $your_name ) ) {
