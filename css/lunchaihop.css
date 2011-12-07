@@ -1,0 +1,23 @@
+.widget-lunchaihop-clearfix:before,
+.widget-lunchaihop-clearfix:after {
+	content: "";
+	display: table;
+}
+
+.widget-lunchaihop-clearfix:after {
+	clear: both;
+}
+
+.widget-lunchaihop-clearfix {
+	*zoom: 1;
+}
+
+.widget-lunchaihop-background {
+	background: #FFF9E5;
+	padding: 10px;
+}
+
+.widget-lunchaihop-clearfix img {
+	float: right;
+	margin: 0 0 0 15px;
+}

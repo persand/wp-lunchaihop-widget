@@ -1,0 +1,49 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lunchaihop Widget\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-07 09:45+0100\n"
+"PO-Revision-Date: 2011-12-07 09:46+0100\n"
+"Last-Translator: Per Sandström <per@helloper.com>\n"
+"Language-Team: Per Sandström <per@helloper.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-lunchaihop-widget.php:14
+msgid "Widget for www.lunchaihop.se."
+msgstr "Widget för www.lunchaihop.se."
+
+#: ../wp-lunchaihop-widget.php:34
+msgid "People on my wishlist:"
+msgstr "Personer på min önskelista:"
+
+#: ../wp-lunchaihop-widget.php:41
+msgid "My name:"
+msgstr "Mitt namn:"
+
+#: ../wp-lunchaihop-widget.php:48
+msgid "LinkedIn URL: "
+msgstr "LinkedIn-länk:"
+
+#: ../wp-lunchaihop-widget.php:51
+msgid "E.g. <em>http://www.linkedin.com/in/jonaslarsson</em>."
+msgstr "T.ex. <em>http://www.linkedin.com/in/jonaslarsson</em>."
+
+#: ../wp-lunchaihop-widget.php:57
+msgid "Disable background color"
+msgstr "Inaktivera bakgrundsfärg"
+
+#: ../wp-lunchaihop-widget.php:96
+msgid "My lunch wishlist:"
+msgstr "Min lunchaihop-önskelista:"
+
+#: ../wp-lunchaihop-widget.php:101
+msgid "Who should I <a href=\"http://www.lunchaihop.se\">lunch with</a>?"
+msgstr "Vem borde jag <a href=\"http://www.lunchaihop.se\">luncha ihop</a> med?"
+
